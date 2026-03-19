@@ -21,7 +21,7 @@
 
     <iframe 
         class="score-container" 
-        src="https://bwf.tournamentsoftware.com/visual-livescore/all-england-2026" 
+        src="[https://bwf.tournamentsoftware.com/visual-livescore/all-england-2026](https://match-centre.bwfbadminton.com/5270)" 
         allowfullscreen>
     </iframe>
 
